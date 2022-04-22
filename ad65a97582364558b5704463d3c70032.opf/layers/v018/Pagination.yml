@@ -322,73 +322,73 @@ annotations:
     reference: ''
     span:
       start: 58070
-      end: 59516
+      end: 59515
     note_ref: 93414740f4a44b53aecec69b8125b0ce
   a88b018aa41b404388e105b52610bd90:
     imgnum: 120
     reference: ''
     span:
-      start: 59518
-      end: 60904
+      start: 59517
+      end: 60903
     note_ref: 93414740f4a44b53aecec69b8125b0ce
   07ef199e4c3b4f6da5483b2739329c7c:
     imgnum: 121
     reference: ''
     span:
-      start: 60906
-      end: 62299
+      start: 60905
+      end: 62298
     note_ref: 93414740f4a44b53aecec69b8125b0ce
   b812439b4c014ca4be010843df9caf04:
     imgnum: 122
     reference: ''
     span:
-      start: 62301
-      end: 63678
+      start: 62300
+      end: 63677
     note_ref: 93414740f4a44b53aecec69b8125b0ce
   6ff2bfd4f20140658c00a524d4dc1641:
     imgnum: 123
     reference: ''
     span:
-      start: 63680
-      end: 65022
+      start: 63679
+      end: 65021
     note_ref: 93414740f4a44b53aecec69b8125b0ce
   0b767cf3ccf849479cbbe0b39b9b59b9:
     imgnum: 124
     reference: ''
     span:
-      start: 65024
-      end: 65873
+      start: 65023
+      end: 65872
     note_ref: 93414740f4a44b53aecec69b8125b0ce
   31f3671afdee4b769a92c39c6e859356:
     imgnum: 125
     reference: ''
     span:
-      start: 65875
-      end: 67644
+      start: 65874
+      end: 67643
   1eb4703da7b443f0b9b845b725321b3c:
     imgnum: 126
     reference: ''
     span:
-      start: 67646
-      end: 69719
+      start: 67645
+      end: 69718
   e6c2427b7e484f11af76183bf6a79b07:
     imgnum: 127
     reference: ''
     span:
-      start: 69721
-      end: 71683
+      start: 69720
+      end: 71682
   ba651e1e3b7b44e2bdfa3c99c5e2a5a8:
     imgnum: 128
     reference: ''
     span:
-      start: 71685
-      end: 73676
+      start: 71684
+      end: 73675
   93414740f4a44b53aecec69b8125b0ce:
     imgnum: 129
     reference: ''
     span:
-      start: 73678
-      end: 75413
+      start: 73677
+      end: 75412
 local_ids:
   965f28e686654b4f92a0577a364b51af: 200000
   eb802b17beea43338b3d8fff2ba26471: 200001
