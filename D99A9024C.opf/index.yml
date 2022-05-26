@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   a09729b5d37549ceb9b75c90e3dfb0db:
     parts: {}
+    work_id: D1798
     span:
-    - vol: 18
+    - base: fd06
       start: 0
       end: 75408
-    work_id: D1798
